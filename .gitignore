@@ -2,3 +2,12 @@
 .virtual_documents/
 __pycache__/
 *.pyc
+
+# datasets
+data/
+*.gz
+*.ubyte
+
+# model checkpoints
+*.pt
+*.pth
