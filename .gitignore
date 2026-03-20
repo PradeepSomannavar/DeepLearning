@@ -11,3 +11,6 @@ data/
 # model checkpoints
 *.pt
 *.pth
+
+# ignoring the nested separate repo
+SpamClassificationUsingBert/
