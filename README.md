@@ -1,11 +1,11 @@
 <div align="center">
-  <h1>🧠 Deep Learning Journey & Implementations 🚀</h1>
+  <h1>Deep Learning Journey & Implementations</h1>
   <p><i>A comprehensive collection of my practical implementations, experiments, and projects in Deep Learning, Natural Language Processing, and Computer Vision.</i></p>
 </div>
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## Tech Stack & Tools
 
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -34,24 +34,24 @@
 
 ---
 
-## 📚 What I've Learned & Implemented
+## What I've Learned & Implemented
 
 This repository serves as my personal learning playground where I build everything from fundamental concepts to advanced NLP and Vision models.
 
-### 🧠 Core Deep Learning & PyTorch Basics
+###  Core Deep Learning & PyTorch Basics
 *   **Tensor Basics:** Fundamental operations, shapes, and PyTorch syntax (`tensorbasics1.ipynb`).
 *   **Autograd & Gradients:** Implementing automatic differentiation (`autogradeinpytorch.ipynb`).
 *   **Optimizers:** Coding Gradient Descent and Mini-Batch Gradient Descent from scratch (`gradient_descent_implimentation.ipynb`, `minibatch_gd.ipynb`).
 *   **Loss Functions:** Comparing and analyzing MSE Loss vs BCE Loss (`MSELossVsBCE.ipynb`).
 *   **Data Pipelines:** Building custom Datasets and DataLoaders in PyTorch (`DatasetsandADataloader.ipynb`).
 
-### 🏛️ Neural Networks & Computer Vision
+###  Neural Networks & Computer Vision
 *   **Simple Neural Networks:** Architecting basic Multi-Layer Perceptrons (MLPs) (`simple_nn.ipynb`).
 *   **Digit Classification:** End-to-end model for handwritten digits (`HandwrittenDigitsClassification.ipynb`).
 *   **Convolutional Neural Networks (CNN):** Building CNNs for visual tasks, including Fashion classification (`CNN_based_Fashion_classification.ipynb`).
 *   **Transfer Learning:** Leveraging pre-trained models for new tasks to improve efficiency (`TransferLearning.ipynb`).
 
-### 🗣️ Natural Language Processing (NLP) & Transformers
+### Natural Language Processing (NLP) & Transformers
 *   **Text Preprocessing:** Cleaning and preparing text data for model consumption (`textpreprocessing.ipynb`).
 *   **Hugging Face Ecosystem:** Mastering the Hugging Face `transformers` library (`HuggingFaceBertBasics.ipynb`).
 *   **Generative AI:** Building next-word prediction pipelines using GPT-2 (`NextWordUsingGPT_2.ipynb`).
@@ -61,14 +61,14 @@ This repository serves as my personal learning playground where I build everythi
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
-### 1. 🛑 Spam Classification using BERT
+### 1.  Spam Classification using BERT
 **Directory:** `/SpamClassificationUsingBert`
 *   Fine-tuning state-of-the-art BERT models for binary text classification.
 *   Leverages the Hugging Face ecosystem to detect spam messages with high accuracy.
 
-### 2. 🏚️ Damage Prediction System
+### 2.  Damage Prediction System
 **Directory:** `/damage-prediction`
 *   A practical computer vision pipeline designed to analyze and predict structural/object damage.
 *   Integrates a fully-fledged backend/API structure for serving model inferences to frontend UIs.
